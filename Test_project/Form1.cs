@@ -24,6 +24,7 @@ namespace Test_project
             thuoc t = new thuoc();
             
             s.insertSinhVien(t);
+            //
         }
     }
 }
