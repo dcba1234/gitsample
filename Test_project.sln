@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_project", "Test_project\Test_project.csproj", "{A88520E8-CD50-44C7-A66E-02E687D48BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1C0B272D-5FE5-4B8A-917B-448BC4E4E9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLThuoc", "QLThuoc\QLThuoc.csproj", "{9706C2D9-0FC9-4E60-87F4-565DE80914E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88520E8-CD50-44C7-A66E-02E687D48BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88520E8-CD50-44C7-A66E-02E687D48BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88520E8-CD50-44C7-A66E-02E687D48BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88520E8-CD50-44C7-A66E-02E687D48BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0B272D-5FE5-4B8A-917B-448BC4E4E9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0B272D-5FE5-4B8A-917B-448BC4E4E9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0B272D-5FE5-4B8A-917B-448BC4E4E9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0B272D-5FE5-4B8A-917B-448BC4E4E9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9706C2D9-0FC9-4E60-87F4-565DE80914E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9706C2D9-0FC9-4E60-87F4-565DE80914E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9706C2D9-0FC9-4E60-87F4-565DE80914E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9706C2D9-0FC9-4E60-87F4-565DE80914E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
