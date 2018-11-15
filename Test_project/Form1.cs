@@ -22,6 +22,7 @@ namespace Test_project
         private void Form1_Load(object sender, EventArgs e)
         {
             thuoc t = new thuoc();
+            
             s.insertSinhVien(t);
         }
     }
